@@ -1,1 +1,42 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Website</title>
+</head>
+<body>
+  
+<nav>
+  <center>
+  <li>  <a href="https://codepen.io/JustinVFong/pen/xxaxWYg" > HOME </a> </li>
+  <li>  <a href="https://codepen.io/JustinVFong/pen/vYVzjJv"> APPS  </a> </li>
+  </nav>
+  
+  </center>
+  <br>
+  <br>
+  
 
+  
+  <!--------------   HEADINGS -------------------->
+  
+  <h2><bold> Justin's Website </bold></h2>
+
+  <center>
+  <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnHo-TP9KEjML28IVjU8Gm6H9Ud3kegh303y8XvRgTRQ&s">  
+  </center>
+  <br>
+  <p><b> this a dog </b></p>
+  
+  <center>
+    <iframe width="760" height="415" src="https://www.youtube.com/embed/-Kg9i0Pt_oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowautoplay></iframe>
+  </center>
+  
+  <br>
+  
+<div class="tenor-gif-embed" data-postid="22827002" data-share-method="host" data-aspect-ratio=".5" data-width="25%"><a href="https://tenor.com/view/rat-spinning-3d-model-gif-22827002">Rat Spinning Sticker</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   <!------------- HEADINGS END ------------------>
+</body>
+</html>
